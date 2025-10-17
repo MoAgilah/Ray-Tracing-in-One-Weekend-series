@@ -9,9 +9,7 @@ It forms part of a broader learning path toward real-time rendering, with the lo
 
 ## 🎥 Preview
 
-![Preview](Assets/preview.gif)
-
-*(Sample render output — spheres, reflections, and diffuse materials)*
+![Preview](https://raw.githubusercontent.com/MoAgilah/Ray-Tracing-in-One-Weekend-series/master/10000Samples(13289.3s).bmp)
 
 ---
 
